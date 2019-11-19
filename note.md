@@ -1,0 +1,4 @@
+ - Django
+ - Dockerfile
+ - Docker-compose
+ - Travis-CI
